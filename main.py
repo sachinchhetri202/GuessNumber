@@ -1,3 +1,9 @@
+''' 
+    * A program for beginners to get started with python.
+    * @author Sachin Chhetri <sachinchhetri202@gmail.com>
+    * Use of Random, loop, if/elif clause, and exception handling.  
+'''
+
 import random
 
 number = random.randint(1, 9)
